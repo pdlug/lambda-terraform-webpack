@@ -1,0 +1,2 @@
+all:
+	terraform apply
